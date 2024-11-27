@@ -94,6 +94,11 @@ nav a:hover {
 .button:hover {
     background: #005bb5;
 }
+img {
+  width: 600px;
+  margin-left: 280px;
+  
+}
 
 /* Подвал */
 footer {
