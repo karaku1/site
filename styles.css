@@ -105,7 +105,7 @@ img {
         margin: 0 auto; /* Центрирует изображение */
         display: block; /* Превращает изображение в блочный элемент */
     }
-
+}
 /* Подвал */
 footer {
     text-align: center;
